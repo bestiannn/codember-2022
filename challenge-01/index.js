@@ -3,7 +3,7 @@ import { addQuotation } from "./functions.js";
 
 const users = [];
 
-const data = fs.readFileSync("./users.txt", "utf8");
+const data = fs.readFileSync("./challenge-01/users.txt", "utf8");
 
 const lines = data.split("\n");
 

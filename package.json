@@ -4,7 +4,10 @@
   "type": "module",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "challenge-1": "node challenge-01/index.js",
+    "challenge-2": "node challenge-02/index.js",
+    "challenge-3": "node challenge-03/index.js",
+    "challenge-4": "node challenge-04/index.js"
   },
   "keywords": [],
   "author": "",

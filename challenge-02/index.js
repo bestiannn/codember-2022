@@ -1,8 +1,8 @@
 import fs from "fs";
 import { ascii } from "./ascii.js";
 
-// const data = fs.readFileSync("./encrypted.txt", "utf8");
-const data = fs.readFileSync("./mail-encrypted.txt", "utf8");
+// const data = fs.readFileSync("./challenge-02/encrypted.txt", "utf8");
+const data = fs.readFileSync("./challenge-02/mail-encrypted.txt", "utf8");
 const dataValues = [];
 
 let decrypted = "";
