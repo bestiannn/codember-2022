@@ -11,5 +11,6 @@ Ejecuta los comandos con npm
   npm run challenge-2
   npm run challenge-3
   npm run challenge-4
+  npm run challenge-5
 ```
     
